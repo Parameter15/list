@@ -60,3 +60,12 @@ www.lance.com.br##.styles_container__UJFeg
 www.lance.com.br##.newsletter-container
 www.lance.com.br##.icons.jsx-c5e24ec7f7b1a7e8
 www.lance.com.br##.header-new--social-icons
+
+! 2023-05-22 https://www.reddit.com
+www.reddit.com##.isolate.border-r-neutral-border-weak
+www.reddit.com##.block.xs\:pt-md.pdp
+www.reddit.com##.pointer-events-auto
+||www.redditstatic.com/shreddit/assets/snoovatar-snoo.png$image
+www.reddit.com##.zoWOQnp55WuhEugRSwfw1
+www.reddit.com##.a35Fm2MurU14xdNybLiZp
+www.reddit.com##._3ZmEUUvrdj4LXpXC9XZdN7
