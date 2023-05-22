@@ -63,6 +63,9 @@ ge.globo.com##.lingueta-pirulito
 ge.globo.com##.glbbarrawidget
 ge.globo.com##.barra-globocom
 ge.globo.com##.comments
+ge.globo.com##.-android
+ge.globo.com##.slideInUp.ct-escolha-time
+ge.globo.com##.bottom-bar-navigation--ready.bottom-bar-navigation
 
 ! 2023-05-17 https://g1.globo.com
 g1.globo.com##.glb-grid > .mc-column
