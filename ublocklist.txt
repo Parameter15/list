@@ -19,6 +19,8 @@ www.youtube.com##ytd-live-chat-frame
 www.youtube.com##yt-live-chat-app
 www.youtube.com###shorts-container
 www.youtube.com###masthead
+www.youtube.com##.ytp-button.ytp-next-button
+www.youtube.com##.ytp-autonav-toggle-button
 
 ! 2023-04-07 https://www.instagram.com
 www.instagram.com##div:nth-of-type(4)
