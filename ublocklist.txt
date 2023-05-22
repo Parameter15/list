@@ -1,0 +1,67 @@
+!Paywall
+||paywall.estadao.com.br^
+
+||estadao.com.br/paywall/*
+
+||www1.folha.uol.com.br/folha/furniture/paywall/*
+
+||static.folha.com.br/paywall/*
+
+||oglobo.globo.com/servicos/inc/payWall.Conteudo.js
+
+||oglobo.globo.com/plataforma/js/*/minificados/paywall/registraConteudosLidos.js
+
+! ########## YouTube ########## 
+! Youtube homepage
+www.youtube.com##ytd-browse[page-subtype="home"]
+! Vídos recomendados no fim do vídeo
+/annotations_module.js$script,important,domain=youtube.com
+/endscreen.js$script,important,domain=youtube.com
+! Barra lateral
+www.youtube.com###related
+www.youtube.com###secondary
+! Chat e comentários
+!www.youtube.com##ytd-comments
+www.youtube.com##ytd-live-chat-frame
+www.youtube.com##yt-live-chat-app
+
+! 2023-04-07 https://www.instagram.com
+www.instagram.com##div:nth-of-type(4)
+www.instagram.com##._ac-v._ac-u._ac-t
+
+! 2023-04-07 https://www.fogaonet.com
+www.fogaonet.com##.fnad-block
+www.fogaonet.com##.eYiKju
+www.fogaonet.com##.hEiEzy
+www.fogaonet.com##.gTRYFW
+
+! 2023-04-07 https://ge.globo.com
+ge.globo.com##.lingueta-pirulito
+
+! 2023-04-23 https://multicanais.fans
+multicanais.fans##.widget_text.widget.vlog-no-padding
+
+! 2023-05-15 https://www.instagram.com
+www.instagram.com##._aa6g
+
+! 2023-05-17 https://g1.globo.com
+g1.globo.com##.glb-grid > .mc-column
+g1.globo.com##.mc-bottom
+
+! 2023-05-17 https://www.estadao.com.br
+www.estadao.com.br##.related-item-single
+www.estadao.com.br##.lordnZ
+www.estadao.com.br##.related-item-carousel
+www.estadao.com.br##.BXsMI
+www.estadao.com.br##.embed-container
+
+! 2023-05-17 https://ge.globo.com
+ge.globo.com##.theme-border-color-primary
+ge.globo.com###chunk-ai1al
+ge.globo.com###chunk-1hlfn
+ge.globo.com##.mc-column.show-multicontent-playlist-container
+
+! 2023-05-18 https://www.youtube.com
+www.youtube.com###shorts-container
+
+
