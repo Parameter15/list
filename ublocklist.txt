@@ -5,6 +5,7 @@
 ||static.folha.com.br/paywall/*
 ||oglobo.globo.com/servicos/inc/payWall.Conteudo.js
 ||oglobo.globo.com/plataforma/js/*/minificados/paywall/registraConteudosLidos.js
+||veja.abril.com.br/*abril-paywall^
 
 ! Youtube
 www.youtube.com##ytd-browse[page-subtype="home"]
