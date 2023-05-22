@@ -89,3 +89,9 @@ www.facebook.com##.xzkaem6.x13vifvy.x17qophe.xixxii4.xds687c.xh8yej3.x1qughib.x7
 www.ufpe.br##.my-fixed
 www.ufpe.br##.access-button
 www.ufpe.br###barra-brasil
+
+! 2023-05-22 https://diolinux.com.br
+diolinux.com.br##.header-topline-wrapper
+diolinux.com.br###post-sidebar
+diolinux.com.br##.navigation-post
+diolinux.com.br##.clearfix.blog-post-related-wrapper
