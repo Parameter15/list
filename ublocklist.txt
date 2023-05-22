@@ -133,3 +133,15 @@ www.bbc.com##.e5jcirq1
 
 ! 2023-05-22 https://www.wolframalpha.com
 www.wolframalpha.com##.htAckm.dpXhHp.sc-ipEyDJ.sc-613dfdea-1
+
+! 2023-05-22 https://www.estadao.com.br
+www.estadao.com.br##.bKA-DcY
+www.estadao.com.br##.container-pub-selo
+www.estadao.com.br##.panel-comentarios
+
+! 2023-05-22 https://www1.folha.uol.com.br
+www1.folha.uol.com.br##.rs_skip
+www1.folha.uol.com.br##.u-no-print.t-soft.block
+www1.folha.uol.com.br##div.u-no-print.block:nth-of-type(2)
+www.folha.uol.com.br##.barrafolha
+
