@@ -49,5 +49,13 @@ ge.globo.com##.lingueta-pirulito
 g1.globo.com##.glb-grid > .mc-column
 g1.globo.com##.mc-bottom
 
-
-
+! 2023-05-22 https://www.lance.com.br
+www.lance.com.br##.styles_stickySlot__qOyLW
+www.lance.com.br##.advertising
+www.lance.com.br##.styles_quadradoArroba__nQZw5
+www.lance.com.br##.styles_container__8rzCk
+www.lance.com.br##.styles_advertising__hMh45
+www.lance.com.br##.styles_container__UJFeg
+www.lance.com.br##.newsletter-container
+www.lance.com.br##.icons.jsx-c5e24ec7f7b1a7e8
+www.lance.com.br##.header-new--social-icons
