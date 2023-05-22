@@ -122,3 +122,11 @@ www.bing.com##.show_all
 www.bing.com##.below_sbox
 www.bing.com###id_h
 www.bing.com##.sa_zis_parent
+
+! 2023-05-22 https://www.bbc.com
+www.bbc.com##.bbc-tpioxw
+www.bbc.com##.etbfg571
+www.bbc.com##.ecaxh2e3
+www.bbc.com##.bbc-l2kb15
+www.bbc.com##.bbc-1pg0aej
+www.bbc.com##.e5jcirq1
