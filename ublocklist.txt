@@ -95,3 +95,9 @@ diolinux.com.br##.header-topline-wrapper
 diolinux.com.br###post-sidebar
 diolinux.com.br##.navigation-post
 diolinux.com.br##.clearfix.blog-post-related-wrapper
+
+! 2023-05-22 https://www.bing.com
+www.bing.com##.show_all
+www.bing.com##.below_sbox
+www.bing.com###id_h
+www.bing.com##.sa_zis_parent
