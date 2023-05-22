@@ -130,3 +130,6 @@ www.bbc.com##.ecaxh2e3
 www.bbc.com##.bbc-l2kb15
 www.bbc.com##.bbc-1pg0aej
 www.bbc.com##.e5jcirq1
+
+! 2023-05-22 https://www.wolframalpha.com
+www.wolframalpha.com##.htAckm.dpXhHp.sc-ipEyDJ.sc-613dfdea-1
