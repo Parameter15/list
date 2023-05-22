@@ -21,17 +21,28 @@ www.youtube.com###shorts-container
 www.youtube.com###masthead
 www.youtube.com##.ytp-button.ytp-next-button
 www.youtube.com##.ytp-autonav-toggle-button
+! mobile
+m.youtube.com##ytm-item-section-renderer.single-column-watch-next-modern-panels.scwnr-content:nth-of-type(3)
+m.youtube.com##ytm-item-section-renderer.single-column-watch-next-modern-panels.scwnr-content:nth-of-type(2) > lazy-list
+m.youtube.com##.tab-content
 
 ! 2023-04-07 https://www.instagram.com
 www.instagram.com##div:nth-of-type(4)
 www.instagram.com##._ac-v._ac-u._ac-t
 www.instagram.com##._aa6g
+! mobile
+www.instagram.com##._acgg
+www.instagram.com##.xemfg65.xbv57ra.x1ka1v4i.xa4qsjk
+www.instagram.com##._acjh._a8b4 > div
+www.instagram.com##._a8hp
 
 ! 2023-04-07 https://www.fogaonet.com
 www.fogaonet.com##.fnad-block
 www.fogaonet.com##.eYiKju
 www.fogaonet.com##.hEiEzy
 www.fogaonet.com##.gTRYFW
+www.fogaonet.com##.iCUAzG
+www.fogaonet.com##.frFHrr
 
 ! 2023-04-23 https://multicanais.fans
 multicanais.fans##.widget_text.widget.vlog-no-padding
@@ -56,6 +67,8 @@ ge.globo.com##.comments
 ! 2023-05-17 https://g1.globo.com
 g1.globo.com##.glb-grid > .mc-column
 g1.globo.com##.mc-bottom
+g1.globo.com##.shadow-video-flow
+g1.globo.com##.theme-border-color-primary.feed
 
 ! 2023-05-22 https://www.lance.com.br
 www.lance.com.br##.styles_stickySlot__qOyLW
@@ -76,6 +89,10 @@ www.reddit.com##.pointer-events-auto
 www.reddit.com##.zoWOQnp55WuhEugRSwfw1
 www.reddit.com##.a35Fm2MurU14xdNybLiZp
 www.reddit.com##._3ZmEUUvrdj4LXpXC9XZdN7
+! mobile
+www.reddit.com##.block.xs\:pt-md.pdp
+www.reddit.com##.xs\:hidden.text-18.px-md.mb-sm.mt-\[20px\].leading-5.font-semibold.items-center.flex
+www.reddit.com##.m-visible.UseAppButton
 
 ! 2023-05-22 https://www.facebook.com
 www.facebook.com##.x4l50q0
