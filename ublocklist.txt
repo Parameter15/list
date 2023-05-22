@@ -145,4 +145,4 @@ www1.folha.uol.com.br##.u-no-print.t-soft.block
 www1.folha.uol.com.br##div.u-no-print.block:nth-of-type(2)
 www.folha.uol.com.br##.barrafolha
 www1.folha.uol.com.br##.barrafolha
-
+www1.folha.uol.com.br###rodape
