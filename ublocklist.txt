@@ -50,6 +50,8 @@ ge.globo.com###chunk-1hlfn
 ge.globo.com##.mc-column.show-multicontent-playlist-container
 ge.globo.com##.lingueta-pirulito
 ge.globo.com##.glbbarrawidget
+ge.globo.com##.barra-globocom
+ge.globo.com##.comments
 
 ! 2023-05-17 https://g1.globo.com
 g1.globo.com##.glb-grid > .mc-column
