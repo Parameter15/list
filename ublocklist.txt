@@ -22,6 +22,8 @@ www.youtube.com###shorts-container
 www.youtube.com###masthead
 www.youtube.com##.ytp-button.ytp-next-button
 www.youtube.com##.ytp-autonav-toggle-button
+www.youtube.com###contentContainer
+www.youtube.com##ytd-reel-shelf-renderer
 ! mobile
 m.youtube.com##ytm-item-section-renderer.single-column-watch-next-modern-panels.scwnr-content:nth-of-type(3)
 m.youtube.com##ytm-item-section-renderer.single-column-watch-next-modern-panels.scwnr-content:nth-of-type(2) > lazy-list
