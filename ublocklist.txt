@@ -25,8 +25,12 @@ www.youtube.com##.ytp-autonav-toggle-button
 www.youtube.com###contentContainer
 www.youtube.com##ytd-reel-shelf-renderer
 ! mobile
-m.youtube.com##ytm-item-section-renderer.single-column-watch-next-modern-panels.scwnr-content:nth-of-type(3)
-m.youtube.com##ytm-item-section-renderer.single-column-watch-next-modern-panels.scwnr-content:nth-of-type(2) > lazy-list
+m.youtube.com##ytm-item-section-renderer.single-column-watch-next-modern-panels.scwnr-content:nth-of-type*
+m.youtube.com##ytm-single-column-browse-results-renderer
+m.youtube.com##.pivot-library.pivot-bar-item-tab
+m.youtube.com##ytm-pivot-bar-renderer
+m.youtube.com##.yt-spec-button-shape-next--override-small-size-icon.yt-spec-button-shape-next--icon-button.yt-spec-button-shape-next--size-s.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--text.yt-spec-button-shape-next
+m.youtube.com###app > .sticky-player
 m.youtube.com##.tab-content
 
 ! 2023-04-07 https://www.fogaonet.com
@@ -201,4 +205,10 @@ www.instagram.com##.x1iyjqo2.xh8yej3 > div:nth-of-type(3) > .x1n2onr6 > ._a6hd.x
 www.instagram.com##div:nth-of-type(4) > .x1n2onr6 > ._a6hd.x1a2a7pz.xggy1nq.x1hl2dhg.x16tdsg8.xkhd6sd.x18d9i69.x4uap5.xexx8yu.x1mh8g0r.xat24cr.x11i5rnm.xdj266r.xe8uvvx.xt0psk2.x1ypdohk.x9f619.xav7gou.xaqea5y.x1b1mbwd.x6umtig.xjbqb8w.x1i10hfl > .x9jhf4c.x30kzoy.xgqcy7u.x1lq5wgf.xzauu7c.x1lhsz42.x10djquj.x172qv1o.xif99yt.x1dn74xm.x1wj20lx.x12ldp4w.x11hdxyr.xs3sg5q.x9k3k5o.x1dejxi8.xdoji71.x159b3zp.x80pfx3.x1ye3gou.xsag5q8.xn6708d.xz9dl7a.x12dmmrz.x7nr27j.x6pnmvc.xo237n4.xjpr12u.xr9ek0c.x3nfvp2.x9f619
 www.instagram.com##.x1iyjqo2.xh8yej3 > div:nth-of-type(3) > .x78zum5.x6s0dn4.x1n2onr6 > ._a6hd.x1a2a7pz.xggy1nq.x1hl2dhg.x16tdsg8.xkhd6sd.x18d9i69.x4uap5.xexx8yu.x1mh8g0r.xat24cr.x11i5rnm.xdj266r.xe8uvvx.xt0psk2.x1ypdohk.x9f619.xav7gou.xaqea5y.x1b1mbwd.x6umtig.xjbqb8w.x1i10hfl > .x159b3zp.x80pfx3.x1ye3gou.xsag5q8.xn6708d.xz9dl7a.x12dmmrz.x7nr27j.x6pnmvc.xo237n4.xjpr12u.xr9ek0c.x9jhf4c.x30kzoy.xgqcy7u.x1lq5wgf.x3nfvp2.x9f619
 www.instagram.com##.x1iyjqo2.xh8yej3 > div:nth-of-type(4)
+! mobile
+www.instagram.com##._a6hd._acg7.x1a2a7pz.xggy1nq.x1hl2dhg.x16tdsg8.xkhd6sd.x18d9i69.x4uap5.xexx8yu.x1mh8g0r.xat24cr.x11i5rnm.xdj266r.xe8uvvx.xt0psk2.x1ypdohk.x9f619.xav7gou.xaqea5y.x1b1mbwd.x6umtig.xjbqb8w.x1i10hfl
+www.instagram.com##.xemfg65.xbv57ra.x1ka1v4i.xa4qsjk
+www.instagram.com##._a8hp
+
+
 
