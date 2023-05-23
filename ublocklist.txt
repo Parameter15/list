@@ -29,13 +29,6 @@ m.youtube.com##ytm-item-section-renderer.single-column-watch-next-modern-panels.
 m.youtube.com##ytm-item-section-renderer.single-column-watch-next-modern-panels.scwnr-content:nth-of-type(2) > lazy-list
 m.youtube.com##.tab-content
 
-! 2023-04-07 https://www.instagram.com
-www.instagram.com##div:nth-of-type(4)
-! mobile
-www.instagram.com##._acgg
-www.instagram.com##.xemfg65.xbv57ra.x1ka1v4i.xa4qsjk
-
-
 ! 2023-04-07 https://www.fogaonet.com
 www.fogaonet.com##.fnad-block
 www.fogaonet.com##.eYiKju
