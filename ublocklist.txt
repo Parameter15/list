@@ -25,7 +25,7 @@ www.youtube.com##.ytp-autonav-toggle-button
 www.youtube.com###contentContainer
 www.youtube.com##ytd-reel-shelf-renderer
 ! mobile
-m.youtube.com##ytm-item-section-renderer.single-column-watch-next-modern-panels.scwnr-content:nth-of-type*
+m.youtube.com##ytm-item-section-renderer.single-column-watch-next-modern-panels.scwnr-content:nth-of-type^
 m.youtube.com##ytm-single-column-browse-results-renderer
 m.youtube.com##.pivot-library.pivot-bar-item-tab
 m.youtube.com##ytm-pivot-bar-renderer
