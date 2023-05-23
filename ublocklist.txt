@@ -31,6 +31,7 @@ m.youtube.com##.tab-content
 
 ! 2023-04-07 https://www.instagram.com
 www.instagram.com##div:nth-of-type(4)
+www.instagram.com##.xjx87ck.x1yqm8si.xfk6m8.x1rohswg.x1pq812k.x9f619.x1miatn0.x1p6e16i.xvbhtw8.x1odjw0f.x1dr59a3.x168l2et
 ! mobile
 www.instagram.com##._acgg
 www.instagram.com##.xemfg65.xbv57ra.x1ka1v4i.xa4qsjk
