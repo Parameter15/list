@@ -26,7 +26,6 @@ www.youtube.com###contentContainer
 www.youtube.com##ytd-reel-shelf-renderer
 ! mobile
 m.youtube.com##ytm-item-section-renderer.single-column-watch-next-modern-panels.scwnr-content:nth-of-type(*)
-m.youtube.com##ytm-item-section-renderer.single-column-watch-next-modern-panels.scwnr-content:nth-of-type(1)
 m.youtube.com##ytm-item-section-renderer.single-column-watch-next-modern-panels.scwnr-content:nth-of-type(2)
 m.youtube.com##ytm-item-section-renderer.single-column-watch-next-modern-panels.scwnr-content:nth-of-type(3)
 m.youtube.com##ytm-item-section-renderer.single-column-watch-next-modern-panels.scwnr-content:nth-of-type(4)
