@@ -10,33 +10,13 @@
 ||super.abril.com.br/*abril-paywall^
 
 ! Youtube
-www.youtube.com##ytd-browse[page-subtype="home"]
-/annotations_module.js$script,important,domain=youtube.com
-/endscreen.js$script,important,domain=youtube.com
-www.youtube.com###related
-www.youtube.com###secondary
-!www.youtube.com##ytd-comments
-www.youtube.com##ytd-live-chat-frame
-www.youtube.com##yt-live-chat-app
-www.youtube.com###shorts-container
-www.youtube.com###masthead
-www.youtube.com##.ytp-button.ytp-next-button
-www.youtube.com##.ytp-autonav-toggle-button
-www.youtube.com###contentContainer
-www.youtube.com##ytd-reel-shelf-renderer
 ! mobile
 m.youtube.com##ytm-item-section-renderer.single-column-watch-next-modern-panels.scwnr-content:nth-of-type(1)
 m.youtube.com##ytm-item-section-renderer.single-column-watch-next-modern-panels.scwnr-content:nth-of-type(2)
 m.youtube.com##ytm-item-section-renderer.single-column-watch-next-modern-panels.scwnr-content:nth-of-type(3)
 m.youtube.com##ytm-item-section-renderer.single-column-watch-next-modern-panels.scwnr-content:nth-of-type(4)
 m.youtube.com##ytm-item-section-renderer.single-column-watch-next-modern-panels.scwnr-content:nth-of-type(5)
-m.youtube.com##ytm-item-section-renderer.single-column-watch-next-modern-panels.scwnr-content:nth-of-type(6)
-m.youtube.com##ytm-single-column-browse-results-renderer
-m.youtube.com##.pivot-library.pivot-bar-item-tab
-m.youtube.com##ytm-pivot-bar-renderer
-m.youtube.com##.yt-spec-button-shape-next--override-small-size-icon.yt-spec-button-shape-next--icon-button.yt-spec-button-shape-next--size-s.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--text.yt-spec-button-shape-next
-m.youtube.com###app > .sticky-player
-m.youtube.com##.tab-content
+m.youtube.com##ytm-item-section-renderer.single-column-watch-next-modern-panels.scwnr-content:nth-of-type(6
 
 ! 2023-04-07 https://www.fogaonet.com
 www.fogaonet.com##.fnad-block
@@ -88,13 +68,6 @@ www.lance.com.br##.icons.jsx-c5e24ec7f7b1a7e8
 www.lance.com.br##.header-new--social-icons
 
 ! 2023-05-22 https://www.reddit.com
-www.reddit.com##.isolate.border-r-neutral-border-weak
-www.reddit.com##.block.xs\:pt-md.pdp
-www.reddit.com##.pointer-events-auto
-||www.redditstatic.com/shreddit/assets/snoovatar-snoo.png$image
-www.reddit.com##.zoWOQnp55WuhEugRSwfw1
-www.reddit.com##.a35Fm2MurU14xdNybLiZp
-www.reddit.com##._3ZmEUUvrdj4LXpXC9XZdN7
 ! mobile
 www.reddit.com##.block.xs\:pt-md.pdp
 www.reddit.com##.xs\:hidden.text-18.px-md.mb-sm.mt-\[20px\].leading-5.font-semibold.items-center.flex
