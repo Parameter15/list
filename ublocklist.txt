@@ -19,7 +19,7 @@ m.youtube.com##ytm-item-section-renderer.single-column-watch-next-modern-panels.
 m.youtube.com##ytm-item-section-renderer.single-column-watch-next-modern-panels.scwnr-content:nth-of-type(3)
 m.youtube.com##ytm-item-section-renderer.single-column-watch-next-modern-panels.scwnr-content:nth-of-type(4)
 m.youtube.com##ytm-item-section-renderer.single-column-watch-next-modern-panels.scwnr-content:nth-of-type(5)
-m.youtube.com##ytm-item-section-renderer.single-column-watch-next-modern-panels.scwnr-content:nth-of-type(6
+m.youtube.com##ytm-item-section-renderer.single-column-watch-next-modern-panels.scwnr-content:nth-of-type(6)
 
 ! 2023-04-07 https://www.fogaonet.com
 www.fogaonet.com##.fnad-block
