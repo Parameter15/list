@@ -21,11 +21,6 @@ m.youtube.com##ytm-item-section-renderer.single-column-watch-next-modern-panels.
 
 ! 2023-04-07 https://www.fogaonet.com
 www.fogaonet.com##.fnad-block
-www.fogaonet.com##.eYiKju
-www.fogaonet.com##.hEiEzy
-www.fogaonet.com##.gTRYFW
-www.fogaonet.com##.iCUAzG
-www.fogaonet.com##.frFHrr
 
 ! 2023-04-23 https://multicanais.fans
 multicanais.fans##.widget_text.widget.vlog-no-padding
