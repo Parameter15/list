@@ -10,8 +10,9 @@
 ||super.abril.com.br/*abril-paywall^
 
 ! Youtube: See https://github.com/trevor87/ublock-filters
+! shorts
+www.youtube.com##ytd-reel-shelf-renderer
 !  block recommendations
-www.youtube.com##ytd-reel-shelf-renderer ! shorts
 www.youtube.com###secondary
 www.youtube.com###sections
 www.youtube.com###ticker > .ytd-masthead.style-scope
@@ -29,6 +30,13 @@ m.youtube.com##ytm-comment-section-renderer.scwnr-content
 
 ! 2023-04-07 https://www.fogaonet.com
 www.fogaonet.com##.fnad-block
+! Cookies
+www.fogaonet.com##.eYiKju.sc-5615f730-0
+! Notícias relacionadas
+www.fogaonet.com##.gTRYFW.sc-3fc2cb2d-0
+! Próximas notícias
+www.fogaonet.com##.hEiEzy.sc-2516f871-0
+www.fogaonet.com##.iCUAzG.sc-a75b9f80-0
 
 ! 2023-04-23 https://multicanais.fans
 multicanais.fans##.widget_text.widget.vlog-no-padding
