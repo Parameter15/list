@@ -9,15 +9,22 @@
 ||veja.abril.com.br/*abril-paywall^
 ||super.abril.com.br/*abril-paywall^
 
-! Youtube
-www.youtube.com###secondary ! Vídeos recomendados
-! mobile
-m.youtube.com##ytm-item-section-renderer.single-column-watch-next-modern-panels.scwnr-content:nth-of-type(1)
-m.youtube.com##ytm-item-section-renderer.single-column-watch-next-modern-panels.scwnr-content:nth-of-type(2)
-m.youtube.com##ytm-item-section-renderer.single-cwww.instagram.com##._aa6golumn-watch-next-modern-panels.scwnr-content:nth-of-type(3)
-m.youtube.com##ytm-item-section-renderer.single-column-watch-next-modern-panels.scwnr-content:nth-of-type(4)
-m.youtube.com##ytm-item-section-renderer.single-column-watch-next-modern-panels.scwnr-content:nth-of-type(5)
-m.youtube.com##ytm-item-section-renderer.single-column-watch-next-modern-panels.scwnr-content:nth-of-type(6)
+! Youtube: See https://github.com/trevor87/ublock-filters
+!  block recommendations
+www.youtube.com###secondary
+www.youtube.com###sections
+www.youtube.com###ticker > .ytd-masthead.style-scope
+!  block recommendations at the end of the video
+! do not forget to disable autoplay at the end of the video. To do that: turn off ublock for a sec and then disable autoplay -> then turn it on again
+www.youtube.com##.ytp-ce-element
+www.youtube.com##.ytp-show-tiles.videowall-endscreen.ytp-player-content.html5-endscreen
+! block home screen stuff
+www.youtube.com##ytd-browse.ytd-page-manager[page-subtype="home"]
+! block mobile home screen stuff
+m.youtube.com##div[tab-identifier="FEwhat_to_watch"]
+! block recommendations and comments on mobile
+m.youtube.com##ytm-item-section-renderer.scwnr-content:nth-of-type(2)
+m.youtube.com##ytm-comment-section-renderer.scwnr-content
 
 ! 2023-04-07 https://www.fogaonet.com
 www.fogaonet.com##.fnad-block
