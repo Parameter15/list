@@ -11,6 +11,7 @@
 
 ! Youtube: See https://github.com/trevor87/ublock-filters
 !  block recommendations
+www.youtube.com##ytd-reel-shelf-renderer ! shorts
 www.youtube.com###secondary
 www.youtube.com###sections
 www.youtube.com###ticker > .ytd-masthead.style-scope
