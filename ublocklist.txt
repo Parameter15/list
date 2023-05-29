@@ -25,13 +25,6 @@ www.fogaonet.com##.fnad-block
 ! 2023-04-23 https://multicanais.fans
 multicanais.fans##.widget_text.widget.vlog-no-padding
 
-! 2023-05-17 https://www.estadao.com.br
-www.estadao.com.br##.related-item-single
-www.estadao.com.br##.lordnZ
-www.estadao.com.br##.related-item-carousel
-www.estadao.com.br##.BXsMI
-www.estadao.com.br##.embed-container
-
 ! 2023-05-17 https://ge.globo.com
 ge.globo.com##.theme-border-color-primary
 ge.globo.com###chunk-ai1al
@@ -50,23 +43,6 @@ g1.globo.com##.glb-grid > .mc-column
 g1.globo.com##.mc-bottom
 g1.globo.com##.shadow-video-flow
 g1.globo.com##.theme-border-color-primary.feed
-
-! 2023-05-22 https://www.lance.com.br
-www.lance.com.br##.styles_stickySlot__qOyLW
-www.lance.com.br##.advertising
-www.lance.com.br##.styles_quadradoArroba__nQZw5
-www.lance.com.br##.styles_container__8rzCk
-www.lance.com.br##.styles_advertising__hMh45
-www.lance.com.br##.styles_container__UJFeg
-www.lance.com.br##.newsletter-container
-www.lance.com.br##.icons.jsx-c5e24ec7f7b1a7e8
-www.lance.com.br##.header-new--social-icons
-
-! 2023-05-22 https://www.reddit.com
-! mobile
-www.reddit.com##.block.xs\:pt-md.pdp
-www.reddit.com##.xs\:hidden.text-18.px-md.mb-sm.mt-\[20px\].leading-5.font-semibold.items-center.flex
-www.reddit.com##.m-visible.UseAppButton
 
 ! 2023-05-22 https://www.facebook.com
 www.facebook.com##.x4l50q0
@@ -94,81 +70,8 @@ www.bing.com##.below_sbox
 www.bing.com###id_h
 www.bing.com##.sa_zis_parent
 
-! 2023-05-22 https://www.bbc.com
-www.bbc.com##.bbc-tpioxw
-www.bbc.com##.etbfg571
-www.bbc.com##.ecaxh2e3
-www.bbc.com##.bbc-l2kb15
-www.bbc.com##.bbc-1pg0aej
-www.bbc.com##.e5jcirq1
-
 ! 2023-05-22 https://www.wolframalpha.com
 www.wolframalpha.com##.htAckm.dpXhHp.sc-ipEyDJ.sc-613dfdea-1
-
-! 2023-05-22 https://www.estadao.com.br
-www.estadao.com.br##.bKA-DcY
-www.estadao.com.br##.container-pub-selo
-www.estadao.com.br##.panel-comentarios
-
-! 2023-05-22 https://www1.folha.uol.com.br
-www1.folha.uol.com.br##.rs_skip
-www1.folha.uol.com.br##.u-no-print.t-soft.block
-www1.folha.uol.com.br##div.u-no-print.block:nth-of-type(2)
-www.folha.uol.com.br##.barrafolha
-www1.folha.uol.com.br##.barrafolha
-www1.folha.uol.com.br###rodape
-
-! 2023-05-21 https://www.terra.com.br
-www.terra.com.br##.related-news__list
-www.terra.com.br##.article-sign-notifications
-www.terra.com.br##.related-videos-no-margin.bg-color-educacao.related-videos
-www.terra.com.br##div.table-range-flex.t360-related-content:nth-of-type(3)
-www.terra.com.br##.app-t360-home-table.t360-related-content
-www.terra.com.br##div.table-range-flex.t360-related-content:nth-of-type(5)
-www.terra.com.br##.t360-taboola__header
-www.terra.com.br##div.table-range-flex.t360-related-content:nth-of-type(7)
-www.terra.com.br##.loading-app.fb-comments
-www.terra.com.br###app-t360-sva-bar
-www.terra.com.br##.bottom-ad-container__full
-www.terra.com.br##.related-videos-no-margin.bg-color-esportes.related-videos
-www.terra.com.br##.related-videos-no-margin.bg-color-diversao.related-videos
-
-! 2023-05-21 https://super.abril.com.br
-super.abril.com.br##.fixed-ad.ads
-super.abril.com.br##div.desk-ads.ads
-super.abril.com.br###relacionadas
-super.abril.com.br##.leia-mais
-super.abril.com.br##.mais-lidas
-super.abril.com.br##.f-brands
-super.abril.com.br##.hot-topics-user-exp
-
-! 2023-05-21 https://noticias.r7.com
-noticias.r7.com##div:nth-of-type(5)
-noticias.r7.com##p:nth-of-type(12)
-noticias.r7.com##.mb-7.align-items-lg-start
-
-! 2023-05-21 https://oglobo.globo.com
-oglobo.globo.com##.header__container_gcom_bar
-oglobo.globo.com##.content-unordered-list > li
-oglobo.globo.com##.article-related-links--inside.article-related-links
-oglobo.globo.com##.comments.mc-column
-oglobo.globo.com##.header__subscribe.header__actions__action
-oglobo.globo.com##.login-button.header__login__signedin__button
-
-! 2023-05-21 https://www.cnnbrasil.com.br
-www.cnnbrasil.com.br##.read__too
-www.cnnbrasil.com.br##.related__posts
-www.cnnbrasil.com.br##.white.most__recent
-www.cnnbrasil.com.br##.col__sidebar.post__sidebar
-www.cnnbrasil.com.br##.hot__content
-www.cnnbrasil.com.br##.audima__content
-
-! 2023-05-21 https://veja.abril.com.br
-veja.abril.com.br##.leia-mais.three_columns.block
-veja.abril.com.br###mais_lidas > .active
-veja.abril.com.br##.f-brands
-veja.abril.com.br##.mais-lidas.related-posts.block
-veja.abril.com.br##.hot-topics-user-exp
 
 ! 2023-05-23 https://www.instagram.com
 ! desktop
