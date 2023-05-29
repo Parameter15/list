@@ -10,8 +10,10 @@
 ||super.abril.com.br/*abril-paywall^
 
 ! Youtube: See https://github.com/trevor87/ublock-filters
-! shorts
-www.youtube.com##ytd-reel-shelf-renderer
+! Reels/Shorts
+www.youtube.com##ytd-shelf-renderer.ytd-item-section-renderer.style-scope > .ytd-shelf-renderer.style-scope
+! For you
+www.youtube.com##.ytd-reel-shelf-renderer.style-scope > .yt-horizontal-list-renderer.style-scope
 !  block recommendations
 www.youtube.com###secondary
 www.youtube.com###sections
