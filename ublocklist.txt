@@ -26,9 +26,8 @@ www.youtube.com##.ytp-show-tiles.videowall-endscreen.ytp-player-content.html5-en
 www.youtube.com##ytd-browse.ytd-page-manager[page-subtype="home"]
 ! block mobile home screen stuff
 m.youtube.com##div[tab-identifier="FEwhat_to_watch"]
-! block recommendations and comments on mobile
+! block recommendations on mobile
 m.youtube.com##ytm-item-section-renderer.scwnr-content:nth-of-type(2)
-m.youtube.com##ytm-comment-section-renderer.scwnr-content
 
 ! 2023-04-07 https://www.fogaonet.com
 www.fogaonet.com##.fnad-block
