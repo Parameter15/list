@@ -15,8 +15,9 @@ www.youtube.com##ytd-shelf-renderer.ytd-item-section-renderer.style-scope > .ytd
 ! For you
 www.youtube.com##.ytd-reel-shelf-renderer.style-scope > .yt-horizontal-list-renderer.style-scope
 !  block recommendations
-!www.youtube.com###secondary
-www.youtube.com###sections
+www.youtube.com##.ytp-ce-element-show
+www.youtube.com###secondary
+!www.youtube.com###sections
 www.youtube.com###ticker > .ytd-masthead.style-scope
 !  block recommendations at the end of the video
 ! do not forget to disable autoplay at the end of the video. To do that: turn off ublock for a sec and then disable autoplay -> then turn it on again
