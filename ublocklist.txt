@@ -15,6 +15,7 @@ www.youtube.com##ytd-shelf-renderer.ytd-item-section-renderer.style-scope > .ytd
 ! For you
 www.youtube.com##.ytd-reel-shelf-renderer.style-scope > .yt-horizontal-list-renderer.style-scope
 !  block recommendations
+www.youtube.com##ytd-watch-next-secondary-results-renderer.ytd-watch-flexy.style-scope > .ytd-watch-next-secondary-results-renderer.style-scope
 www.youtube.com##.ytp-ce-element-show
 www.youtube.com###secondary
 !www.youtube.com###sections
