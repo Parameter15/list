@@ -142,4 +142,5 @@ www1.folha.uol.com.br##.rs_skip.u-no-print.col-fixed--md-300.col-fixed
 www1.folha.uol.com.br##.js-continue-reading-hidden.u-no-print.rs_skip.comments-article
 www1.folha.uol.com.br##div.u-no-print.block:nth-of-type(2)
 www1.folha.uol.com.br##.u-no-print.t-soft.block
+www1.folha.uol.com.br##.rs_skip.c-list--widget.c-list
 
