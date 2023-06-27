@@ -121,6 +121,7 @@ uol.com.br##.component-ready.blogs-and-columns-recommendation
 uol.com.br##.chartbeat-related-content
 uol.com.br##.latest-news-banner
 uol.com.br###uolpd-banner-inarticle
+uol.com.br##.text-top-content
 
 ! 2023-06-26 https://g1.globo.com
 g1.globo.com###boxComentarios
