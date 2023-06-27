@@ -124,7 +124,6 @@ uol.com.br###uolpd-banner-inarticle
 uol.com.br##.text-top-content
 uol.com.br##.signin > [href*="https://assine.uol.com.br/"]
 
-
 ! 2023-06-26 https://g1.globo.com
 g1.globo.com###boxComentarios
 
@@ -133,3 +132,14 @@ www.bbc.com##.bbc-tpioxw
 www.bbc.com##.etbfg571
 www.bbc.com##.bbc-l2kb15
 www.bbc.com##.bbc-1pg0aej
+
+! 2023-06-28 https://piaui.folha.uol.com.br
+piaui.folha.uol.com.br##.noticia__readmore
+piaui.folha.uol.com.br##.socials--left.noticia__socials--content
+
+! 2023-06-28 https://www1.folha.uol.com.br
+www1.folha.uol.com.br##.rs_skip.u-no-print.col-fixed--md-300.col-fixed
+www1.folha.uol.com.br##.js-continue-reading-hidden.u-no-print.rs_skip.comments-article
+www1.folha.uol.com.br##div.u-no-print.block:nth-of-type(2)
+www1.folha.uol.com.br##.u-no-print.t-soft.block
+
