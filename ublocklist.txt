@@ -110,5 +110,16 @@ www.instagram.com##._a6hd._acg7.x1a2a7pz.xggy1nq.x1hl2dhg.x16tdsg8.xkhd6sd.x18d9
 www.instagram.com##.xemfg65.xbv57ra.x1ka1v4i.xa4qsjk
 www.instagram.com##._a8hp
 
+! 2023-06-28 https://www.uol.com.br
+www.uol.com.br##.collection-index
+www.uol.com.br##.chartbeat-related-content
+www.uol.com.br##.ng-scope.col-sm-24.col-xs-8
+www.uol.com.br##.with-image.related-content-hyperlink
+www.uol.com.br##.instagram-embed
+uol.com.br##.container.new-post-notice-columnist
+uol.com.br##.component-ready.blogs-and-columns-recommendation
+uol.com.br##.chartbeat-related-content
+uol.com.br##.latest-news-banner
 
-
+! 2023-06-26 https://g1.globo.com
+g1.globo.com###boxComentarios
