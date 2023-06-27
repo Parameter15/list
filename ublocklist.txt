@@ -115,13 +115,15 @@ uol.com.br##.collection-index
 uol.com.br##.chartbeat-related-content
 uol.com.br##.ng-scope.col-sm-24.col-xs-8
 uol.com.br##.with-image.related-content-hyperlink
-Uol.com.br##.instagram-embed
+uol.com.br##.instagram-embed
 uol.com.br##.container.new-post-notice-columnist
 uol.com.br##.component-ready.blogs-and-columns-recommendation
 uol.com.br##.chartbeat-related-content
 uol.com.br##.latest-news-banner
 uol.com.br###uolpd-banner-inarticle
 uol.com.br##.text-top-content
+uol.com.br##.signin > [href*="https://assine.uol.com.br/"]
+
 
 ! 2023-06-26 https://g1.globo.com
 g1.globo.com###boxComentarios
