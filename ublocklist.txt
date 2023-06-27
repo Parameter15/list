@@ -123,3 +123,9 @@ uol.com.br##.latest-news-banner
 
 ! 2023-06-26 https://g1.globo.com
 g1.globo.com###boxComentarios
+
+! 2023-06-28 https://www.bbc.com
+www.bbc.com##.bbc-tpioxw
+www.bbc.com##.etbfg571
+www.bbc.com##.bbc-l2kb15
+www.bbc.com##.bbc-1pg0aej
