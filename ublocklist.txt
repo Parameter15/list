@@ -159,5 +159,6 @@ www.cnnbrasil.com.br##.fixed.hot__content
 www.cnnbrasil.com.br##.header__banner
 www.cnnbrasil.com.br##.col__sidebar.post__sidebar
 www.cnnbrasil.com.br##.audima__content
+www.cnnbrasil.com.br##.scroll-to-top-button
 
 
