@@ -60,6 +60,12 @@ ge.globo.com##.-android
 ge.globo.com##.slideInUp.ct-escolha-time
 ge.globo.com##.bottom-bar-navigation--ready.bottom-bar-navigation
 
+! 2023-06-19 https://oglobo.globo.com
+www.globo.com###cookie-banner-lgpd
+oglobo.globo.com##.theme-border-color-primary.feed
+oglobo.globo.com##.comments.mc-column
+
+
 ! 2023-05-17 https://g1.globo.com
 g1.globo.com##.glb-grid > .mc-column
 g1.globo.com##.mc-bottom
@@ -143,4 +149,15 @@ www1.folha.uol.com.br##.js-continue-reading-hidden.u-no-print.rs_skip.comments-a
 www1.folha.uol.com.br##div.u-no-print.block:nth-of-type(2)
 www1.folha.uol.com.br##.u-no-print.t-soft.block
 www1.folha.uol.com.br##.rs_skip.c-list--widget.c-list
+
+! 2023-06-30 https://www.cnnbrasil.com.br
+www.cnnbrasil.com.br##.related__posts
+www.cnnbrasil.com.br##.white.most__recent
+www.cnnbrasil.com.br###i-amp-0 > i-amphtml-sizer
+www.cnnbrasil.com.br##.read__too
+www.cnnbrasil.com.br##.fixed.hot__content
+www.cnnbrasil.com.br##.header__banner
+www.cnnbrasil.com.br##.col__sidebar.post__sidebar
+www.cnnbrasil.com.br##.audima__content
+
 
