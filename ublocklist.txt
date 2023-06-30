@@ -43,6 +43,17 @@ www.fogaonet.com##.gTRYFW.sc-3fc2cb2d-0
 ! Próximas notícias
 www.fogaonet.com##.hEiEzy.sc-2516f871-0
 www.fogaonet.com##.iCUAzG.sc-a75b9f80-0
+! Diversos
+www.fogaonet.com##.bvgTgk.sc-61e71e6-0
+www.fogaonet.com##.dzEVka.sc-969dfc68-0
+www.fogaonet.com##.HrgRU.sc-a9c292a-0
+www.fogaonet.com##.cwUTHP
+www.fogaonet.com##.glEBkC
+www.fogaonet.com##.jXsBfb
+www.fogaonet.com##.ACyZa.sc-4567b476-0
+www.fogaonet.com##.fJOOrS.sc-179774aa-0
+www.fogaonet.com##.frFHrr
+
 
 ! 2023-04-23 https://multicanais.fans
 multicanais.fans##.widget_text.widget.vlog-no-padding
@@ -64,7 +75,6 @@ ge.globo.com##.bottom-bar-navigation--ready.bottom-bar-navigation
 www.globo.com###cookie-banner-lgpd
 oglobo.globo.com##.theme-border-color-primary.feed
 oglobo.globo.com##.comments.mc-column
-
 
 ! 2023-05-17 https://g1.globo.com
 g1.globo.com##.glb-grid > .mc-column
